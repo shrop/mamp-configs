@@ -4,3 +4,4 @@
  * Remove folder /Applications/MAMP/conf
  * Clone this repo to /Applications/MAMP/conf
 * The ssl folder contains a generic ssl key and crt for the cn: default.site. Ignore the ssl errors and it will work fine for testing sites with SSL.
+* This setup is configured to use VirtualHostX to setup Apache vhosts. Virtual hosts can be edited directly at /private/etc/apache2/extra/httpd-vhosts.conf.
