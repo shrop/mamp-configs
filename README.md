@@ -1,4 +1,4 @@
-### My MAMP configuration files with SSL enabled
+### My MAMP configuration files with SSL enabled (Using VirtualHostX for vhost editing)
 * Built with MAMP 1.9.6 (http://www.mamp.info/en/index.html)
 * To setup:
  * Remove folder /Applications/MAMP/conf
